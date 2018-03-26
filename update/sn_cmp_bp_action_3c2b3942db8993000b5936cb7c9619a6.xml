@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_action">
+    <sn_cmp_bp_action action="INSERT_OR_UPDATE">
+        <action_type>2</action_type>
+        <datasource/>
+        <name>Show CreateResourceGroup</name>
+        <order>10</order>
+        <rule display_value="Show CreateResourceGroup">342b3942db8993000b5936cb7c9619a5</rule>
+        <status/>
+        <sys_class_name>sn_cmp_bp_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:33:37</sys_created_on>
+        <sys_id>3c2b3942db8993000b5936cb7c9619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Show CreateResourceGroup</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_action_3c2b3942db8993000b5936cb7c9619a6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:33:37</sys_updated_on>
+        <target_attribute>CreateResourceGroup</target_attribute>
+        <target_attribute_select/>
+        <value/>
+    </sn_cmp_bp_action>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 15:37:41</sys_created_on>
+        <sys_id>efcbfa39db4193000b5936cb7c961990</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_cfgmgmt_puppet_enterprise_credentials.x_snc_cfgmgmt.user</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_security_acl display_value="x_snc_cfgmgmt_puppet_enterprise_credentials">efcbfa39db4193000b5936cb7c96198d</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_efcbfa39db4193000b5936cb7c961990</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 15:37:41</sys_updated_on>
+        <sys_user_role display_value="x_snc_cfgmgmt.user" name="x_snc_cfgmgmt.user">d2ea3239db4193000b5936cb7c961937</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

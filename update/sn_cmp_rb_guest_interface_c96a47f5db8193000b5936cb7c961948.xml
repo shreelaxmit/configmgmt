@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_guest_interface">
+    <sn_cmp_rb_guest_interface action="INSERT_OR_UPDATE">
+        <guestinterface display_value="Puppet Enterprise Interface">c56a47f5db8193000b5936cb7c961943</guestinterface>
+        <resource display_value="Puppet Enterprise">c56a47f5db8193000b5936cb7c961945</resource>
+        <sys_class_name>sn_cmp_rb_guest_interface</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 16:41:24</sys_created_on>
+        <sys_id>c96a47f5db8193000b5936cb7c961948</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c56a47f5db8193000b5936cb7c961945</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_rb_guest_interface_c96a47f5db8193000b5936cb7c961948</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 16:41:24</sys_updated_on>
+    </sn_cmp_rb_guest_interface>
+</record_update>

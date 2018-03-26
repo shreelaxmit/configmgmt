@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_global_prop">
+    <sn_cmp_bp_global_prop action="INSERT_OR_UPDATE">
+        <bp_stage_operation display_value="Provision">609a7902db8993000b5936cb7c9619c8</bp_stage_operation>
+        <bp_stage_res_op_attr display_value="StackName">c5aabd02db8993000b5936cb7c9619e1</bp_stage_res_op_attr>
+        <mandatory>true</mandatory>
+        <name>StackName</name>
+        <order>143</order>
+        <resource_op_unique_id>5760</resource_op_unique_id>
+        <sys_class_name>sn_cmp_bp_global_prop</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:31:27</sys_created_on>
+        <sys_id>8daabd02db8993000b5936cb7c9619e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>StackName</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_global_prop_8daabd02db8993000b5936cb7c9619e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:31:27</sys_updated_on>
+    </sn_cmp_bp_global_prop>
+</record_update>

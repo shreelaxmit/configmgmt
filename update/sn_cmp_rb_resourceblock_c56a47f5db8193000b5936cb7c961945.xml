@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_rb_resourceblock">
+    <sn_cmp_rb_resourceblock action="INSERT_OR_UPDATE">
+        <description/>
+        <guestinterface display_value="Puppet Enterprise Interface">c56a47f5db8193000b5936cb7c961943</guestinterface>
+        <hostinterface/>
+        <is_system_defined>false</is_system_defined>
+        <is_tlr>false</is_tlr>
+        <layer>5</layer>
+        <name>Puppet Enterprise</name>
+        <refcitype>x_snc_cfgmgmt_u_cmdb_ci_puppet_enterprise</refcitype>
+        <resource_template/>
+        <status>2</status>
+        <sys_class_name>sn_cmp_rb_resourceblock</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 16:41:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>c56a47f5db8193000b5936cb7c961945</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_rb_resourceblock_c56a47f5db8193000b5936cb7c961945</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 16:41:24</sys_updated_on>
+        <type/>
+    </sn_cmp_rb_resourceblock>
+</record_update>

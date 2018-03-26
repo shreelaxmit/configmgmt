@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <description>TriggerChangeEvent Virtual_Server_ComputeProfile</description>
+        <event display_value="FieldChange">af1b3942db8993000b5936cb7c961919</event>
+        <name>TriggerChangeEvent Virtual_Server_ComputeProfile</name>
+        <order>700</order>
+        <source_key display_value="Location">be1bf542db8993000b5936cb7c96198e</source_key>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:33:43</sys_created_on>
+        <sys_id>0a2bb942db8993000b5936cb7c961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TriggerChangeEvent Virtual_Server_ComputeProfile</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_0a2bb942db8993000b5936cb7c961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:33:43</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>

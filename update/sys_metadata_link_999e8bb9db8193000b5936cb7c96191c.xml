@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>542e07b9db8193000b5936cb7c9619a9</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_workload_provider_type">
+    <sn_cmp_workload_provider_type action="INSERT_OR_UPDATE">
+        <config_ci>x_snc_cfgmgmt_u_cmdb_ci_puppet_enterprise</config_ci>
+        <credential_resolver display_value="PuppetEnterpriseCredentialResolver">be0483b1db8193000b5936cb7c961923</credential_resolver>
+        <credential_type>x_snc_cfgmgmt_puppet_enterprise_credentials</credential_type>
+        <name>Puppet Enterprise </name>
+        <product_type display_value="Puppet Enterprise">bf2f36bddb4193000b5936cb7c9619e7</product_type>
+        <provider_version>1.0</provider_version>
+        <server_type>Enterprise,Opensource</server_type>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 16:59:43</sys_created_on>
+        <sys_id>542e07b9db8193000b5936cb7c9619a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 16:59:43</sys_updated_on>
+    </sn_cmp_workload_provider_type>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 16:59:43</sys_created_on>
+        <sys_id>999e8bb9db8193000b5936cb7c96191c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Puppet Enterprise </sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sys_metadata_link_999e8bb9db8193000b5936cb7c96191c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 16:59:43</sys_updated_on>
+        <tablename>sn_cmp_workload_provider_type</tablename>
+    </sys_metadata_link>
+</record_update>

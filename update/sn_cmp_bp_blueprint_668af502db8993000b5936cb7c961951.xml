@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_cmp_bp_blueprint">
+    <sn_cmp_bp_blueprint action="INSERT_OR_UPDATE">
+        <category display_value="Config Management">731f86900b2322004b1b812f15673ade</category>
+        <cloud_service/>
+        <description/>
+        <layer/>
+        <name>InstallApache</name>
+        <sm_checkpoint_id/>
+        <source_sm_checkpoint_id/>
+        <status>2</status>
+        <svc_layer display_value="InstallApache">ea8af502db8993000b5936cb7c961957</svc_layer>
+        <sys_class_name>sn_cmp_bp_blueprint</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:31:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>668af502db8993000b5936cb7c961951</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>InstallApache</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_blueprint_668af502db8993000b5936cb7c961951</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:31:01</sys_updated_on>
+        <tlr display_value="InstallApache Blueprint Resource">ba8a3902db8993000b5936cb7c961911</tlr>
+    </sn_cmp_bp_blueprint>
+</record_update>

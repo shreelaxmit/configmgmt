@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_rule">
+    <sn_cmp_bp_rule action="INSERT_OR_UPDATE">
+        <description>TriggerChangeEvent- Virtual_Server_ManagedDisk</description>
+        <event display_value="FieldChange">af1b3942db8993000b5936cb7c961919</event>
+        <name>TriggerChangeEvent- Virtual_Server_ManagedDisk</name>
+        <order>560</order>
+        <source_key display_value="Logical_Datacenter">db1bf542db8993000b5936cb7c9619f1</source_key>
+        <status>1</status>
+        <sys_class_name>sn_cmp_bp_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:33:42</sys_created_on>
+        <sys_id>f12b7942db8993000b5936cb7c9619c6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TriggerChangeEvent- Virtual_Server_ManagedDisk</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_rule_f12b7942db8993000b5936cb7c9619c6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:33:42</sys_updated_on>
+    </sn_cmp_bp_rule>
+</record_update>

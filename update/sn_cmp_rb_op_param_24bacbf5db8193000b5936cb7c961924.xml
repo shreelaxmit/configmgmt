@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_rb_op_param">
+    <sn_cmp_rb_op_param action="INSERT_OR_UPDATE">
+        <interface display_value="Puppet Enterprise Interface">c56a47f5db8193000b5936cb7c961943</interface>
+        <name>WorkloadConfigProvider</name>
+        <operation display_value="Discover">8f7a0775db8193000b5936cb7c9619fc</operation>
+        <order>1000</order>
+        <sys_class_name>sn_cmp_rb_op_param</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-25 16:42:44</sys_created_on>
+        <sys_id>24bacbf5db8193000b5936cb7c961924</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkloadConfigProvider</sys_name>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_rb_op_param_24bacbf5db8193000b5936cb7c961924</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-25 16:42:44</sys_updated_on>
+        <type>1</type>
+    </sn_cmp_rb_op_param>
+</record_update>

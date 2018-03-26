@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_cmp_bp_stage_resource_op_graph">
+    <sn_cmp_bp_stage_resource_op_graph action="INSERT_OR_UPDATE">
+        <blueprint_stage_op display_value="Provision">609a7902db8993000b5936cb7c9619c8</blueprint_stage_op>
+        <child_operation display_value="Virtual Server.Register Node">2fcaf142db8993000b5936cb7c96191e</child_operation>
+        <in_degree>0</in_degree>
+        <parent_operation display_value="Virtual Server.Bootstrap Node">ddcab142db8993000b5936cb7c961989</parent_operation>
+        <status>true</status>
+        <sys_class_name>sn_cmp_bp_stage_resource_op_graph</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-26 05:32:01</sys_created_on>
+        <sys_id>1dcab142db8993000b5936cb7c96198d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="CfgMgmt" source="x_snc_cfgmgmt">8aea7ef5db4193000b5936cb7c96197a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CfgMgmt">8aea7ef5db4193000b5936cb7c96197a</sys_scope>
+        <sys_update_name>sn_cmp_bp_stage_resource_op_graph_1dcab142db8993000b5936cb7c96198d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-26 05:32:11</sys_updated_on>
+    </sn_cmp_bp_stage_resource_op_graph>
+</record_update>
